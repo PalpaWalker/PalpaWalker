@@ -13,19 +13,19 @@
 <tr>
   <td>
 
-  ![](https://api.githubtrends.io/user/svg/YenHuynh02/repos?time_range=three_months&include_private=True&group=private&theme=bright_lights)
+  ![](https://api.githubtrends.io/user/svg/PalpaWalker/repos?time_range=three_months&include_private=True&group=private&theme=bright_lights)
     
   </td>
   
   <td>
 
-  ![](https://api.githubtrends.io/user/svg/YenHuynh02/repos?time_range=six_months&include_private=True&theme=bright_lights)
+  ![](https://api.githubtrends.io/user/svg/PalpaWalker/repos?time_range=six_months&include_private=True&theme=bright_lights)
     
   </td>
   
   <td>
   
-  ![](https://api.githubtrends.io/user/svg/YenHuynh02/repos?time_range=one_year&loc_metric=changed&theme=bright_lights)
+  ![](https://api.githubtrends.io/user/svg/PalpaWalker/repos?time_range=one_year&loc_metric=changed&theme=bright_lights)
   
   </td>
 </tr>
