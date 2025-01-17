@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+  
+# 💻Tech Stacks
+[![Languages](https://skillicons.dev/icons?i=ts,js,kotlin,sass,rust,java,c,cpp,r,html,css,angular,nodejs,react,bootstrap,mui,mysql,php,azure,aws,vercel,github,jest,vscode,visualstudio,figma,arduino,postman,git,bash)](https://skillicons.dev)
 
-<!--
-**PalpaWalker/PalpaWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏆Contribution
+<table>
+<tr align='center'>
+  <td>Past 3 Months</td>
+  <td>Past 6 Months</td>
+  <td>Past 1 Year</td>
+</tr>
+<tr>
+  <td>
 
-Here are some ideas to get you started:
+  ![](https://api.githubtrends.io/user/svg/YenHuynh02/repos?time_range=three_months&include_private=True&group=private&theme=bright_lights)
+    
+  </td>
+  
+  <td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://api.githubtrends.io/user/svg/YenHuynh02/repos?time_range=six_months&include_private=True&theme=bright_lights)
+    
+  </td>
+  
+  <td>
+  
+  ![](https://api.githubtrends.io/user/svg/YenHuynh02/repos?time_range=one_year&loc_metric=changed&theme=bright_lights)
+  
+  </td>
+</tr>
+</table>
+</div>
