@@ -38,7 +38,7 @@
 
 <p align="center">
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="[https://www.linkedin.com/in/peyton-da-silva-404369258/details/experience/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
