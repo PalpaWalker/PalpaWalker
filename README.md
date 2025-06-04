@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 3rd Year Algonquin Student from <b>Ottawa</b> 」
+    「 CET-CS Algonquin Graduate from <b>Ottawa</b> 」
     <br>
     <br>
   </samp>
